@@ -1,3 +1,5 @@
+# go-work
+
 go-work is a simple webserver requester with the ability to test multiple sites at the same time.
 
 It is build with [termui]https://(github.com/gizak/termui/v3) to create the data table.
@@ -10,8 +12,7 @@ go run main.go http://example.com https://google.com
 
 This will start calling both sites and give you stats about their response time.
 
-Possible flags are
-
+## Possible flags are
 -r to set the rate
 This will try to call the sites 50 times a sec.
 ```
