@@ -12,7 +12,7 @@ go run main.go http://example.com https://google.com
 
 This will start calling both sites and give you stats about their response time.
 
-## Possible flags are
+## Possible flags
 -r to set the rate
 This will try to call the sites 50 times a sec.
 ```
