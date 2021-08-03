@@ -30,3 +30,10 @@ go run main.go -r 50 -c 10 http://example.com
 go run main.go -max http://example.com
 ```
 
+## Installation
+There is no prebuild binary for now, but you can build it yourself and place it in your `/usr/bin` folder to be able to use it without using being in the project folder.
+
+```
+go build -o go-wrk main.go
+sudo mv go-wrk /usr/bin/
+```
