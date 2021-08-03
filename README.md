@@ -2,7 +2,7 @@
 
 go-wrk is a simple webserver requester with the ability to test multiple sites at the same time.
 
-It is build with [termui]https://(github.com/gizak/termui/v3) to create the data table.
+It is build with [termui](https://github.com/gizak/termui/v3) to create the data table.
 
 For now simply git clone the project, build and run it with
 
