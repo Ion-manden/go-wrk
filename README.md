@@ -1,6 +1,6 @@
-# go-work
+# go-wrk
 
-go-work is a simple webserver requester with the ability to test multiple sites at the same time.
+go-wrk is a simple webserver requester with the ability to test multiple sites at the same time.
 
 It is build with [termui]https://(github.com/gizak/termui/v3) to create the data table.
 
